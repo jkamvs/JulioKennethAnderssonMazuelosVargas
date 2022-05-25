@@ -1,4 +1,4 @@
-# JulioKennethAnderssonMazuelosVargas
+# Julio Kenneth Andersson Mazuelos Vargas
 
 ### Soy Desarrollador Full Stack, manejo las dos ramas Backend y Frontend, tengo el Bachiller de Ingeneria de Sistemas E Informatica. Recientemente soy graduado del Bootcamp intensivo de Henty.
 ---
