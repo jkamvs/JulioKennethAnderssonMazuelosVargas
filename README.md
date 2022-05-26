@@ -11,6 +11,8 @@
 * Proyecto Grupal de 7 integrantes de Henry E-commerces Clothes 22 una pagina de venta de prendas de moda. Se utilizo Frontend ReactJs , Redux, Style components, validaciones de alertas, PDFJS y google login. Backend ExpressJS, JWT, Password, NodeMails, Sequelize, PosgresSQL y Autenticacion Google. Este proyecto se centro en el lado de Usuario y el lado del administrador. Se creo un Chat Bot de respuesta automatica hecho por codigo, Carrito de compra, Favorito de productos de usuario, opcion de combertir un usuario en administrador, orden de compra, Mail de publicidad, caja de comentarios de productos y login de Google y de Base de datos. [Clothe 22](https://github.com/jkamvs/clothes-22)
 
 
-Para conocerme, Vistitame en [Linkedin](https://www.linkedin.com/in/julio-kenneth-andersson-mazuelos-vargas-kenzhul/)
+Para conocerme, Visitame en [Linkedin](https://www.linkedin.com/in/julio-kenneth-andersson-mazuelos-vargas-kenzhul/)
+
+Mi portfolio, Visitame en [Kenzhul](https://portafolio-kenzhul.vercel.app/)
 
 
